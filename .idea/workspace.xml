@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="menambahkan file percabangan">
-      <change afterPath="$PROJECT_DIR$/src/latihanIOpercabangan/DataMahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/latihanIOpercabangan/percabangan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas3/tugas3.java" afterDir="false" />
+    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="tugas pertemuan 4">
+      <change afterPath="$PROJECT_DIR$/src/latihanLoop/latihan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihanLoop/latihanNestedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileDoWhile/latihan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileDoWhile/latihanDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tugas3">
-    <configuration name="DataMahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="latihanIOpercabangan.DataMahasiswa" />
+  <component name="RunManager" selected="Application.latihanDoWhile">
+    <configuration name="latihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileDoWhile.latihan" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="latihanIOpercabangan.*" />
+          <option name="PATTERN" value="whileDoWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifelseif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan.ifelseif" />
+    <configuration name="latihan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihanLoop.latihan1" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Percabangan.*" />
+          <option name="PATTERN" value="latihanLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nestedif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan.nestedif" />
+    <configuration name="latihanDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileDoWhile.latihanDoWhile" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Percabangan.*" />
+          <option name="PATTERN" value="whileDoWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="percabangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="latihanIOpercabangan.percabangan" />
+    <configuration name="latihanNestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihanLoop.latihanNestedFor" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="latihanIOpercabangan.*" />
+          <option name="PATTERN" value="latihanLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tugas3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugas3.tugas3" />
+    <configuration name="nestedloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas4.nestedloop" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tugas3.*" />
+          <option name="PATTERN" value="tugas4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tugas3" />
-        <item itemvalue="Application.percabangan" />
-        <item itemvalue="Application.DataMahasiswa" />
-        <item itemvalue="Application.nestedif" />
-        <item itemvalue="Application.ifelseif" />
+        <item itemvalue="Application.latihanDoWhile" />
+        <item itemvalue="Application.latihan" />
+        <item itemvalue="Application.nestedloop" />
+        <item itemvalue="Application.latihan1" />
+        <item itemvalue="Application.latihanNestedFor" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678787194451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tugas pertemuan 3">
+      <created>1680247154830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680247154830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tugas pertemuan 4">
+      <created>1680674217517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680674217517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 2 class examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2 class examples" />
+    <MESSAGE value="tugas pertemuan 3" />
+    <MESSAGE value="tugas pertemuan 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="tugas pertemuan 4" />
   </component>
 </project>
