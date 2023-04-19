@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="tugas pertemuan 4">
-      <change afterPath="$PROJECT_DIR$/src/latihanLoop/latihan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/latihanLoop/latihanNestedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileDoWhile/latihan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileDoWhile/latihanDoWhile.java" afterDir="false" />
+    <list default="true" id="6dd49db9-ec66-47a9-9861-5cd046c2693d" name="Changes" comment="materi pertemuan 5">
+      <change afterPath="$PROJECT_DIR$/src/array1D/array2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array1D/latihanArray1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tugas6/tugasArray2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.latihanDoWhile">
+  <component name="RunManager" selected="Application.tugasArray2D">
+    <configuration name="array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1D.array2D" />
+      <module name="PD222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array1D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="latihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="whileDoWhile.latihan" />
       <module name="PD222" />
@@ -58,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="latihan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="latihanLoop.latihan1" />
+    <configuration name="latihanArray1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1D.latihanArray1D" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="latihanLoop.*" />
+          <option name="PATTERN" value="array1D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="latihanNestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="latihanLoop.latihanNestedFor" />
+    <configuration name="tugasArray2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas6.tugasArray2D" />
       <module name="PD222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="latihanLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nestedloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugas4.nestedloop" />
-      <module name="PD222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tugas4.*" />
+          <option name="PATTERN" value="tugas6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tugasArray2D" />
+        <item itemvalue="Application.array2D" />
+        <item itemvalue="Application.latihanArray1D" />
         <item itemvalue="Application.latihanDoWhile" />
         <item itemvalue="Application.latihan" />
-        <item itemvalue="Application.nestedloop" />
-        <item itemvalue="Application.latihan1" />
-        <item itemvalue="Application.latihanNestedFor" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680674217517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="materi pertemuan 5">
+      <created>1681271045128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681271045128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +174,7 @@
     <MESSAGE value="add 2 class examples" />
     <MESSAGE value="tugas pertemuan 3" />
     <MESSAGE value="tugas pertemuan 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="tugas pertemuan 4" />
+    <MESSAGE value="materi pertemuan 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="materi pertemuan 5" />
   </component>
 </project>
